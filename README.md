@@ -1,7 +1,7 @@
-go-working-with
+git-working-with
 ===============
 
-Tiny git pairing utility
+Tiny git pairing utility.
 
 ## Installation
 
